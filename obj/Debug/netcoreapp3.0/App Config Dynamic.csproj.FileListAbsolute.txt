@@ -1,0 +1,49 @@
+C:\Source\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Source\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Source\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.exe
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.deps.json
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.runtimeconfig.json
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.runtimeconfig.dev.json
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.dll
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.pdb
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.Views.dll
+C:\Source\bin\Debug\netcoreapp3.0\App Config Dynamic.Views.pdb
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Azure.AppConfiguration.AspNetCore.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Azure.Management.ResourceManager.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Azure.AppConfiguration.AzconfigClient.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Azure.AppConfiguration.ManagedIdentityConnector.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.AzureAppConfiguration.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.dll
+C:\Source\bin\Debug\netcoreapp3.0\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Source\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Source\bin\Debug\netcoreapp3.0\System.Interactive.Async.dll
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.csprojAssemblyReference.cache
+C:\Source\obj\Debug\netcoreapp3.0\staticwebassets\App Config Dynamic.StaticWebAssets.Manifest.cache
+C:\Source\obj\Debug\netcoreapp3.0\staticwebassets\App Config Dynamic.StaticWebAssets.xml
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.MvcApplicationPartsAssemblyInfo.cache
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.RazorAssemblyInfo.cache
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.RazorAssemblyInfo.cs
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.AssemblyInfoInputs.cache
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.AssemblyInfo.cs
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.TagHelpers.input.cache
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.TagHelpers.output.cache
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.RazorCoreGenerate.cache
+C:\Source\obj\Debug\netcoreapp3.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Source\obj\Debug\netcoreapp3.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Source\obj\Debug\netcoreapp3.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Source\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Source\obj\Debug\netcoreapp3.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Source\obj\Debug\netcoreapp3.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Source\obj\Debug\netcoreapp3.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.RazorTargetAssemblyInfo.cache
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.RazorTargetAssemblyInfo.cs
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.Views.pdb
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.csproj.CopyComplete
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.dll
+C:\Source\obj\Debug\netcoreapp3.0\App Config Dynamic.pdb
